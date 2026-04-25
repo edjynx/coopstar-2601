@@ -25,7 +25,7 @@ export default function Hero() {
             Sua entrega no <span className="text-transparent bg-clip-text bg-gradient-to-r from-brand-600 to-blue-400">tempo certo</span>
           </h1>
           <p className="text-lg md:text-xl text-slate-600 mb-10 leading-relaxed">
-            Especialistas em entregas rápidas de documentos e volumes na Capital e Grande São Paulo. Agilidade, segurança e confiança há mais de 9 anos.
+            Especialistas em entregas rápidas de documentos e volumes na Capital e Grande São Paulo. Agilidade, segurança e confiança há mais de 12 anos.
           </p>
 
           <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
@@ -58,7 +58,7 @@ export default function Hero() {
             <div className="w-12 h-12 bg-brand-50 rounded-full flex items-center justify-center mb-4 text-brand-600">
               <ShieldCheck className="w-6 h-6" />
             </div>
-            <h3 className="font-semibold text-lg text-slate-900 mb-2">9 Anos de Mercado</h3>
+            <h3 className="font-semibold text-lg text-slate-900 mb-2">12 Anos de Mercado</h3>
             <p className="text-slate-600 text-sm">Equipe especializada para garantir o sucesso de sua empresa.</p>
           </div>
           <div className="bg-white p-6 rounded-2xl shadow-sm border border-slate-100 flex flex-col items-center text-center hover:shadow-md transition">

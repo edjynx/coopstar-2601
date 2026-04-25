@@ -35,7 +35,7 @@ export default function About() {
             
             <ul className="grid grid-cols-1 sm:grid-cols-2 gap-4 pt-4">
               {[
-                "Mais de 9 anos de experiência",
+                "Mais de 12 anos de experiência",
                 "Atendimento para Grande SP",
                 "Equipe treinada e especializada",
                 "Atendimento corporativo ágil"

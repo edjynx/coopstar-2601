@@ -9,7 +9,7 @@ const inter = Inter({
 
 export const metadata: Metadata = {
   title: "Coopstar Express | Serviços de Moto Frete",
-  description: "Especialistas em entregas e coletas rápidas com mais de 9 anos de mercado. Moto Frete 24h em São Paulo e Grande São Paulo.",
+  description: "Especialistas em entregas e coletas rápidas com mais de 12 anos de mercado. Moto Frete 24h em São Paulo e Grande São Paulo.",
   keywords: "moto frete, entregas rápidas, delivery sp, motoboy são paulo",
 };
 
